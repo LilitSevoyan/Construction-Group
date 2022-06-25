@@ -10,7 +10,7 @@ import {
     getMinMaxAreaAction,
     postSubscribeAction
 } from '../actions/mainAction'
-
+  
 const initialState = {
     loading: false,
     rooms: [],
